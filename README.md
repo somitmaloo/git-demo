@@ -4,8 +4,6 @@
 This is the first file in this repo.
 
 
-## Ipsum Below
+## Website Contents
 
-My name is Somit.
-Hi, this is true.
-yes, thats true.
+1. index.html
